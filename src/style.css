@@ -106,3 +106,18 @@ p {
   color: var(--secondary-color);
   text-decoration: underline;
 }
+@media (max-width: 576px) {
+  #yoga-picture,
+  #weather-picture,
+  #yogurt-picture {
+    display: none;
+  }
+  .launch-button {
+    display: block;
+    text-align: center;
+  }
+  .launch-link {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
