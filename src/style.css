@@ -78,6 +78,8 @@ p {
 }
 
 .email-link {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
   display: flex;
   justify-content: center;
   color: var(--primary-color);
