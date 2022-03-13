@@ -112,7 +112,8 @@ p {
   #yogurt-picture {
     display: none;
   }
-  .launch-button {
+  .launch-button,
+  p {
     display: block;
     text-align: center;
   }
